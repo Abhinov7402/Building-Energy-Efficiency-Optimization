@@ -1,5 +1,4 @@
 # Building-Energy-Efficiency-Optimization
-A constraint-based optimization model to minimize total fuel and airport fees across multi-leg flights, evaluating tankering vs. non-tankering strategies under fuel price, ramp-fee waiver, and aircraft weight-capacity constraints.
 
 The dataset Energy Efficiency is designed for energy analysis of buildings simulated in
 Ecotect. It includes simulated data for 12 different building shapes. The features capture
